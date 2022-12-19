@@ -1,0 +1,45 @@
+#imagem{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+
+#imagem2{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.container{
+    align-items: center;
+    display: flex;
+
+    gap: 2.5rem;
+}
+
+.header{
+    background-color: rgb(164, 128, 8);
+}
+
+#containerxl{
+
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+table {
+    width: 100%;
+    background-color: white;
+    border-radius: 1rem;
+    -webkit-box-shadow: 0px 0px 4px 0px #000000; 
+    box-shadow: 0px 0px 4px 0px #000000;
+}
+
+table thead th {
+    font-size: 1.5rem;
+    padding: 1rem;
+    border-bottom: 1px solid var(--primary-color);
+}
+
